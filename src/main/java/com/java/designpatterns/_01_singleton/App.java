@@ -1,4 +1,4 @@
-package com.java.designpatterns.singleton;
+package com.java.designpatterns._01_singleton;
 
 public class App {
 
